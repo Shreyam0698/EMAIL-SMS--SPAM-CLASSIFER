@@ -11,7 +11,7 @@ Streamlit Deployment: The application is deployed using Streamlit, providing an 
 Installation:
 1. Clone the repository:
 bash
-git clone https://github.com/your-username/email-sms-spam-detection.git
+git clone https://github.com/Shreyam0698/EMAIL-SMS--SPAM-CLASSIFER.git
 cd email-sms-spam-detection
 
 2. Install the required dependencies:
